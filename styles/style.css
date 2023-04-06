@@ -76,6 +76,22 @@ text-decoration: none;
     top: 50%;
 }
 
+@media (max-width: 900px) {
+    h1 {
+        font-size: 25px
+    }
+    
+   
+
+    .works-cat {
+        font-size: 20px;
+    }
+
+    .btn-start {
+        font-size: 15px;
+    }
+}
+
 
 
 

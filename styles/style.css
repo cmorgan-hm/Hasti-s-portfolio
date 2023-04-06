@@ -14,29 +14,19 @@
   color: var(--highlight-color);
 }
 
-.top-hr {
-  border: var(--highlight-color) 2px solid;
-  opacity: 1;
-  margin-left: 40px;
-  width: 70%;
-}
-
-.bottom-hr {
-  border: var(--highlight-color) 2px solid;
-  opacity: 1;
-  width: 70%;
-  margin-left: 40px;
-
-  margin-bottom: 28px;
-}
 
 h1 {
-  padding-right: 0px;
+  padding: 10px;
   margin-top: 18px;
-  margin-bottom: 18px;
+  margin: 100px;
+  margin-bottom: 25px;
   margin-left: 40px;
+  
   font-size: 34px;
   font-weight: 300;
+  border-bottom: var(--highlight-color) 4px solid;
+  border-top: var(--highlight-color) 4px solid;
+  
 }
 
 .highlight {

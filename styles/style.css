@@ -41,3 +41,18 @@ h1 {
   margin-left: 40px;
   text-decoration: none;
 }
+
+.categories {
+    margin-top: 100px;
+}
+
+.works-cat {
+    font-size: 28px;
+  font-weight: 300;
+  border-bottom: var(--highlight-color) 4px solid;
+  border-top: var(--highlight-color) 4px solid;
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  
+}
